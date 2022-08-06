@@ -4,7 +4,7 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-System.Console.Write("Введите первое число N: ");
+System.Console.Write("Введите число N: ");
 int numeric = Convert.ToInt32(Console.ReadLine());
 int i = 2;
 while (i<=numeric)
